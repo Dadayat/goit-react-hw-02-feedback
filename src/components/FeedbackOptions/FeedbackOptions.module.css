@@ -1,0 +1,14 @@
+.buttonList {
+  display: flex;
+  gap: 15px;
+}
+
+.button {
+  padding: 5px 10px;
+  background-color: rgb(172, 206, 237);
+  border-radius: 5px;
+  border: 1px solid rgb(85, 101, 116);
+  box-shadow: 0px 4px 10px 4px #575757;
+  font-size: 20px;
+  width: 100px;
+}
